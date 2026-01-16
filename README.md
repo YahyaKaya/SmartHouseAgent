@@ -1,4 +1,4 @@
-# Friday Jarvis - AI Voice Assistant 🎙️
+# BugraAI - AI Voice Assistant 🎙️
 
 A sophisticated voice-powered AI assistant built with LiveKit and Google Gemini, inspired by Iron Man's J.A.R.V.I.S. This agent provides real-time voice interaction with smart home control, web search, weather updates, and more.
 
