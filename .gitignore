@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# LiveKit
+livekit.toml
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+KMS/logs/
+
+# Test and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+coverage.xml
+*.cover
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# MQTT Credentials (if stored locally)
+mqtt_config.json
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+.tmp/
+
+# Build artifacts
+*.spec
